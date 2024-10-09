@@ -1,2 +1,2 @@
 # Bill_Calculator
-Calculates the bill payable for any order
+Calculates the bill that to be paid by the customer for the orders 
